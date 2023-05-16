@@ -11,7 +11,7 @@
 
 ##
 
-<a href="malito:isaacfm7077@gmail.com" target="_blank"> <img align="center" alt="Zacc-phyton" height="40" width="145" src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> ||
+<a href="mailto:isaacfm7077@gmail.com" target="_blank"> <img align="center" alt="Zacc-phyton" height="40" width="145" src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> ||
 <a href="https://www.kaggle.com/zaccmarc" target="_blank">
     <img align="center" alt="Zacc-phyton" height="40" width="120" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"> 
 </a> ||
