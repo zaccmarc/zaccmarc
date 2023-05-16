@@ -1,16 +1,39 @@
-### Hi there 👋
+### Hi there, Bem-vindo(a) ao meu cantinho no GitHub! Sinta-se em casa ☕
+###### Estudante de Engenharia da Computação e aspirante a AI Engineer
 
-<!--
-**zaccmarc/zaccmarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---------------------------------------------------------------------------
 
-Here are some ideas to get you started:
+**The BIO for Isaac Marcolino** :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Em busca de oportunidades como estágiario ou junior 
+- 🌱 Estudando atualmente Ciencia de dados, Big Data e ferramentas como : **Sparky| Mongo| Kafka**
+- ⚡ Fun fact: Eu curto desenhar animes 
+
+##
+
+<a href="https://www.kaggle.com/zaccmarc" target="_blank">
+    <img align="center" alt="Zacc-phyton" height="40" width="120" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"> 
+</a> ||
+    <a href="www.linkedin.com/in/isaac-marcolino" target="_blank"> <img align="center" alt="Zacc-phyton" height="40" width="145" src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" > 
+</a> ||
+<a href="isaacfm7077@gmail.com" target="_blank"> <img align="center" alt="Zacc-phyton" height="40" width="145" src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> |
+
+##
+
+<img align="center" alt="Zacc-phyton" height="40" width="95" src= "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"> |
+<img align="center" alt="Zacc-phyton" height="40" width="125" src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> |
+<img align="center" alt="Zacc-phyton" height="40" width="125" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> |
+<img align="center" alt="Zacc-phyton" height="40" width="125" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> |
+
+
+##
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zaccmarc&show_icons=true&theme=transparent&hide_border=true" alt="Anurag's github stats" /></a> | |
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=zaccmarc&layout=compact&theme=transparent&hide_border=true" /> </a> |
+  
+##
+
+|  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zaccmarc&&theme=transparent&show_owner=true&repo=zaccmarc"/></a> |
+ 
+ 
+
