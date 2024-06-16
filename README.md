@@ -6,7 +6,7 @@
 **The BIO for Isaac Marcolino** :
 
 - 🔭 Em busca de oportunidades como estágiario ou junior 
-- 🌱 Estudando atualmente Ciencia de dados, Big Data e ferramentas como : **Sparky| Mongo| Kafka**
+- 🌱 Estudando atualmente Ciencia de dados, AI e ferramentas como : **Power BI| AI Solutions (GPT, Hugging Face)| Python**
 - ⚡ Fun fact: Eu curto desenhar animes 
 
 ##
