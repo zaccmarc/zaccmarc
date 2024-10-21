@@ -22,10 +22,3 @@
 
 | <a href="https://github.com/zaccmarc/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zaccmarc&show_icons=true&theme=transparent&hide_border=true" alt="Anurag's github stats" /></a> | |
   <a href="https://github.com/zaccmarc/"><img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=zaccmarc&layout=compact&theme=transparent&hide_border=true" /> </a> |
-  
-##
-
-|  <a href="https://github.com/zaccmarc/zaccmarc"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zaccmarc&&theme=transparent&show_owner=true&repo=zaccmarc"/></a> |
- 
- 
-
