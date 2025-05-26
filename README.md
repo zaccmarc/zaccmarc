@@ -15,8 +15,8 @@
 
 ##
 
-<img align="center" alt="Zacc-phyton" height="40" width="125" src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> |
-<img align="center" alt="Zacc-C" height="40" width="125" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img align="center" alt="Zacc-phyton" height="40" width="145" src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> |
+<img align="center" alt="Zacc-C" height="40" width="145" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 
 ##
 
