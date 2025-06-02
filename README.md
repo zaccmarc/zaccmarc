@@ -4,7 +4,7 @@
 
 **The BIO for Isaac Marcolino** :
 
-- 🌱 currently studying software engineering, mobile developmente, java, python and AI
+- 🌱 currently studying software engineering, mobile development, java, python and AI
 - ⚡ Fun fact: I like drawing and watching anime
 
 ##
